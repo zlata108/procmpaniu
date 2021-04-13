@@ -1,0 +1,67 @@
+.menu { background-color: purple;
+ width: 15% ; height: 100% ; position: absolute;
+  font-family: "Poppins", sans-serif; 
+  display: inline-block;  border-radius: 15px}
+   .menu a {display:block;  width: 180px;
+margin: 10px; font-size: 25px;
+ color: white; text-decoration: none;
+
+
+
+
+    }
+
+    .menu h2 {font-size:  30px;
+ color: white; text-decoration: none  }
+  .galery img{width: 30% ; 
+   height: 230px; display: inline-block; 
+    border-radius: 15px}
+  .main { width:  80% ; display: inline-block;
+   margin-left: 20%  }
+   hr { border: 3px solid #45015d;
+    border-radius: 5px }
+    h2 { color:  #45015d;
+    	font-family: 'Source Sans Pro', sans-serif; }
+    p {font-family: 'Poppins', sans-serif;}
+
+
+    .work { width: 30%; display: inline-block;  }
+.work img {width: 99%}
+.dec { background-color:#D3D3D3; padding: 5px;
+border-radius: 5px }
+.pop {opacity: 0.6}
+.dec h3 {  font-weight: bold; }
+.tariff li {  list-style-type: none; 
+padding: 10px; border-bottom: 2px solid #dddddd
+
+
+
+  }
+ul {text-align: center; padding: 0 ; margin: 0 
+}
+
+.tariff {  display: inline-block;  width: 40%;
+ background-color: #f1f1f1; margin: 20px; 
+
+
+
+}
+
+ .tariff .tariff-name  {  background-color: #45015d; 
+color: white ; font-size: 24px;
+padding: 20px 0; border-radius: 20px 
+
+
+ } 
+
+
+ .pro .tariff-name { background-color: #f44336  }
+ button { border-color: white; padding: 5px;
+  border-radius:14px  }
+  .hee {  background-color: #f44336; color: white  }
+  .price { font-size: 20px; font-weight: bold; } 
+  .period {opacity: 0.7}
+  input{  display: block; width: 95%; height: 30px ;
+   border-width:  1px; border-color: #C0C0C0;}
+   #conta button { width: 95% ; background-color: #45015d; 
+   color: white; border-radius: 1px; padding: 15px 0 ; margin-top: 6px    } 
